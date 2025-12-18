@@ -19,13 +19,15 @@ The backend provides endpoints to collect sensor data sent by an Arduino device 
 - Arduino (IoT data source)
 
 ## Project Structure
+```
 mi_proyecto/
-├── venv/
-├── main.py
-├── requirements.txt
-├── README.md
-└── mi_modulo/
+├── venv/                   # Virtual environment
+├── main.py                 # Application entry point
+├── requirements.txt        # Project dependencies
+├── README.md               # Project documentation
+└── mi_modulo/              # Project modules
     └── __init__.py
+```
 
 ## Getting Started
 
